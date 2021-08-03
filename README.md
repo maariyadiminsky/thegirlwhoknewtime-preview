@@ -38,7 +38,7 @@ After a short break, Episode 01 had a ton of new features so it took about 5 mon
 
 **:star2: DEMO Includes(FREE):**
 * Prologue
-* Episode 01 *(Soon will be free, as stated below currently you have to pay)*
+* Episode 01 *(Soon will be free(as stated below), currently you have to pay)*
 
 **:star2: FULL GAME(Will work on Episode 02-05 part-time):**
 * Prologue
