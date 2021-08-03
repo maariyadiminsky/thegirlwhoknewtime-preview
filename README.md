@@ -30,7 +30,7 @@ Guide Catherine—a determined young woman—to save her world from perishing. Y
 
 #### Development
 
-:books:The first year I focused on learning `C#`, `Unity`, and managing all the art and animation that game needs. Every single detail of every asset took much more time than anticipate to create. Just the first episode alone has over 70 total assets(there are 5 episodes).
+:books:The first year I focused on learning `C#`, `Unity`, and managing all the art and animation that game needs. The creation of every single detail of every asset took more time than anticipated. Just the first episode alone has over 70 total assets(there are 5 episodes).
 
 The Prologue was released in October.
 
@@ -38,7 +38,7 @@ After a short break, Episode 01 had a ton of new features so it took about 5 mon
 
 **:star2: DEMO Includes(FREE):**
 * Prologue
-* Episode 01 *(Soon will be free, as stated above, currently you have to pay)*
+* Episode 01 *(Soon will be free, as stated below currently you have to pay)*
 
 **:star2: FULL GAME(Will work on Episode 02-05 part-time):**
 * Prologue
