@@ -32,7 +32,7 @@ Guide Catherine—a determined young woman—to save her world from perishing. Y
 
 :books:The first year I focused on learning `C#`, `Unity`, and managing all the art and animation that game needs. The creation of every single detail of every asset took more time than anticipated. Just the first episode alone has over 70 total assets(there are 5 episodes).
 
-The Prologue was released in October.
+The Prologue was released in October 2021.
 
 After a short break, Episode 01 had a ton of new features so it took about 5 months to develop and was released in July 2021. Currently I am dedicating all my time to web development while working on this project part-time. 
 
