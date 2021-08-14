@@ -1,8 +1,13 @@
 # The Girl Who Knew Time
 
-:sparkles: For the past two years that I've started an indie game studio ([TrinityMoon Studios](https://www.trinitymoonstudios.com/))—I self-taught myself `C#` and `Unity`, created dozens of managements systems, features, and `.txt`-based language using `C#`. I also managed artist and animator contractors from various skills and backgrounds while developing the game.
+| [:sparkles:DEMO:sparkles:](https://play.google.com/store/apps/details?id=com.trinitymoonstudios.thegirlwhoknewtime) | [DEV BLOG](https://blog.trinitymoonstudios.com/series/the-girl-who-knew-time) | [TWITTER](https://twitter.com/mariyadiminsky)
 
-:sparkles:**The Girl Who Knew Time** is a story I wrote, managed and developed. **Check out Episode 01 trailer below:**
+---
+For the past two years that I've started an indie game studio ([TrinityMoon Studios](https://www.trinitymoonstudios.com/))—I self-taught myself `C#` and `Unity`, created dozens of managements systems, features, and `.txt`-based language using `C#`. I also managed artist and animator contractors from various skills and backgrounds while developing the game.
+
+**The Girl Who Knew Time** is a story I wrote, managed and developed. 
+
+**Check out Episode 01 trailer below:**
 
 [![Watch The Girl Who Knew Time Episode 01 Trailer](https://i.imgur.com/i2OmXfj.png)](https://youtu.be/d-xUqCe2hu8)
 
@@ -38,14 +43,14 @@ After a short break, Episode 01 had a ton of new features so it took about 5 mon
 
 **:star2: DEMO Includes(FREE):**
 * Prologue
-* Episode 01 *(Soon will be free(as stated below), currently you have to pay)*
+* Episode 01
 
 **:star2: FULL GAME(Will work on Episode 02-05 part-time):**
 * Prologue
 * Episode 01 - 05
 
 > ##### :warning: Please Note:
-> * As it stands you can play the Prologue for free and purchase Episode 01 within the game. (In about 1-2 weeks I will remove in-app purchases and make Episode 01 free—it will be part of the Demo.) 
+> * As it stands you can play the Prologue for free and purchase Episode 01 within the game.
 > * **Once all Episodes are completed later this year, I will have another app release with the full-game**. So you'll only have to purchase it once to get all the episodes.
 
 ## :herb: About the code
@@ -103,9 +108,6 @@ If you’re interested to see the progress of how Episode 01 was created, you ca
 
 ##### Demo
 Play the **Demo** on [Google Play](https://play.google.com/store/apps/details?id=com.trinitymoonstudios.thegirlwhoknewtime)!
-
-> ##### :warning: Please Note:
-> If your phone can hold only 2GB memory, it will not work. I will be removing this limitation soon.
 
 ## :herb: Notes 
 - Updates for this project will not be made in this repository but in the TrinityMoon Studios official private repo.
